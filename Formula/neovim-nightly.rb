@@ -1,7 +1,7 @@
 class NeovimNightly < Formula
   desc "Neovim Nightly"
   homepage "https://neovim.io/"
-  url "https://github.com/neovim/neovim/releases/download/nightly/nvim-macos.tar.bz2"
+  url "https://github.com/neovim/neovim/releases/download/nightly/nvim-macos.tar.gz"
   version "latest"
 
   def install
